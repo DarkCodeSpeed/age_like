@@ -1,0 +1,12 @@
+# Ignore a specific folder
+env/
+####
+
+# Ignore the `media` folder
+media/
+####
+
+# Ignore the `images` folder
+env/ images/
+blog/
+dataviewer/
